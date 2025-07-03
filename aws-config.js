@@ -4,7 +4,7 @@ const AWS_CONFIG = {
   region: 'us-east-1',
   userPoolId: 'us-east-1_BRcN2CXH8',
   userPoolWebClientId: '6d5u2nfffro25bbpteher640ma',
-  identityPoolId: 'us-east-1:xxxx-xxxx-xxxx-xxxx',
+  identityPoolId: 'us-east-1:1ddc7b36-6caf-4743-be60-bda0201801b4',
   apiGatewayUrl: 'https://abc123.execute-api.us-east-1.amazonaws.com/prod'
 };
 
